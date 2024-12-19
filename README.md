@@ -1,5 +1,15 @@
 # Pizza Sales Analysis
 
+### Table of content
+Project Overview
+Executive Summary
+Objectives
+Business questions
+Key Findings
+Recommendations
+Tool used for the Analysis
+Conclusion
+
 ### Project Overview
 This project provides an analysis of Linda Pizza's sales data and offers actionable insights for Dford's partnership. The analysis aims to help Dford optimize its supply chain, improve product delivery, and enhance its role as a strategic partner in Linda Pizza’s growth.
 
@@ -67,7 +77,7 @@ pizzas such as The Greek Pizza (£35) and The Brie Carre Pizza (£25) attract ni
 
 ### Tool Used for the Analysis
 
-The analysis was performed using a Excel Dashboard, tools such as Power query was used to clean, structure and merge different tables to remove inconsistencies.
+The analysis was performed using Excel Dashboard, tools such as Power query was used to clean, structure and merge different tables to remove inconsistencies.
 Pivot table was used to summarize, organize and aggregate the data to create interactive visualizations. These tools are highly effective for transforming raw data into meaningful visualizations and insights.
 
 ### Conclusion
