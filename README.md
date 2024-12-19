@@ -43,8 +43,30 @@ Larger sizes offer higher revenue potential, and specialty pizzas (e.g., spin_pe
 Monthly sales show an inconsistent upward trend, with peaks in April and dips in September, suggesting seasonal influences.
 Total sales fluctuate between £58,000 and £72,000 per month, indicating opportunities to stabilize revenue during low-performing months.
 
-Most Expensive Pizzas
+- Most Expensive Pizzas
 pizzas such as The Greek Pizza (£35) and The Brie Carre Pizza (£25) attract niche, high-income customers, contributing to higher margins.
+
+![Screenshot 2024-12-18 235531](https://github.com/user-attachments/assets/10dbc6a8-08c5-478f-a1d8-811a6e4293dc)
+
+### Actionable Recommendations for Dford
+
+1 Supply Chain Optimization
+- Focus on securing high-demand ingredients like cheese, chicken, and premium meat toppings to meet customer preferences.
+- Prepare for peak seasons based on historical sales trends to avoid shortages.
+
+2 Revenue Growth Strategies
+- Promote larger pizza sizes (XXL, XL) to maximize revenue per order.
+- Upsell premium and specialty pizzas to drive profit margins further.
+
+3 Operational Efficiency
+- Align delivery schedules with sales patterns to reduce lead times and maintain ingredient freshness.
+- Analyze sales trends during slower months to design targeted promotions or campaigns.
+
+4 Customer Loyalty
+- Leverage the popularity of top-selling pizzas to create loyalty programs or bundle deals.
+
+
+
 
 
 
