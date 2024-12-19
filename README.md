@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis
+# Pizza Sales Analysis
 
 ### Project Overview
 This project provides an analysis of Linda Pizza's sales data and offers actionable insights for Dford's partnership. The analysis aims to help Dford optimize its supply chain, improve product delivery, and enhance its role as a strategic partner in Linda Pizza’s growth.
@@ -64,6 +64,14 @@ pizzas such as The Greek Pizza (£35) and The Brie Carre Pizza (£25) attract ni
 
 4 Customer Loyalty
 - Leverage the popularity of top-selling pizzas to create loyalty programs or bundle deals.
+
+### Tool Used for the Analysis
+
+The analysis was performed using a Excel Dashboard, tools such as Power query was used to clean, structure and merge different tables to remove inconsistencies.
+Pivot table was used to summarize, organize and aggregate the data to create interactive visualizations. These tools are highly effective for transforming raw data into meaningful visualizations and insights.
+
+### Conclusion
+This analysis highlights Linda Pizza’s strong performance in customer retention and market presence. By focusing on high-demand products, seasonal trends, and supply chain improvements, Dford can solidify its role as a reliable partner. Implementing these recommendations will not only enhance Dford’s operational efficiency but also support Linda Pizza’s growth, ensuring a mutually beneficial partnership.
 
 
 
