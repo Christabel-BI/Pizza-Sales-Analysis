@@ -7,8 +7,8 @@
 - Business questions
 - [Key Findings](#key-findings)
 - Dashboard
-- [Recommendations](#recommendations)
-- [Tools used for the Analysis](#tools-used-for-the-analysis)
+- Recommendations
+- Tools used for the Analysis
 - Conclusion
 
 ### Project Overview
