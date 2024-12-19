@@ -1,14 +1,15 @@
 # Pizza Sales Analysis
 
 ### Table of content
-Project Overview
-Executive Summary
-Objectives
-Business questions
-Key Findings
-Recommendations
-Tool used for the Analysis
-Conclusion
+- Project Overview   
+- Executive Summary
+- Objectives
+- Business questions
+- [Key Findings](#key-findings)
+- Dashboard
+- [Recommendations](#recommendations)
+- [Tools used for the Analysis](#tools-used-for-the-analysis)
+- Conclusion
 
 ### Project Overview
 This project provides an analysis of Linda Pizza's sales data and offers actionable insights for Dford's partnership. The analysis aims to help Dford optimize its supply chain, improve product delivery, and enhance its role as a strategic partner in Linda Pizza’s growth.
@@ -56,6 +57,7 @@ Total sales fluctuate between £58,000 and £72,000 per month, indicating opport
 - Most Expensive Pizzas
 pizzas such as The Greek Pizza (£35) and The Brie Carre Pizza (£25) attract niche, high-income customers, contributing to higher margins.
 
+### Dashboard
 ![Screenshot 2024-12-18 235531](https://github.com/user-attachments/assets/10dbc6a8-08c5-478f-a1d8-811a6e4293dc)
 
 ### Actionable Recommendations for Dford
